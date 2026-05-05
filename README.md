@@ -1,5 +1,4 @@
-# Infraestrutura Local — API EFI Serasa Score
-
+# Infraestrutura Local 
 ## Pré-requisitos
 
 - Docker e Docker Compose instalados
