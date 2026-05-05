@@ -39,6 +39,11 @@ mysql -h localhost -P 3306 -u app_user -papp_pass123 --skip-ssl serasa_score_dev
 aws --endpoint-url=http://localhost:4566 s3 ls s3://serasa-score-dev/
 ```
 
+## Rodar na IDE 
+
+# Instalar o componente para o VS Code (precisa estar o ssh configurado)
+
+<img width="812" height="215" alt="image" src="https://github.com/user-attachments/assets/01034a03-2232-4b97-8880-c4e7572e3135" />
 
 
 ## Parar ambiente
